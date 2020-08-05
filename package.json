@@ -24,17 +24,17 @@
   "author": "YourNameOrOrganization",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.0"
+    "@actions/core": "^1.2.4"
   },
   "devDependencies": {
     "@types/jest": "^24.9.1",
-    "@types/node": "^12.12.37",
+    "@types/node": "^12.12.53",
     "@zeit/ncc": "^0.20.5",
     "jest": "^24.9.0",
     "jest-circus": "^24.9.0",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^3.14.0",
     "prettier": "^1.19.1",
-    "ts-jest": "^24.3.0",
-    "typescript": "^3.8.3"
+    "ts-jest": "^26.1.4",
+    "typescript": "^3.9.7"
   }
 }
